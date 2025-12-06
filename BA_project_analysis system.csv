@@ -1,4 +1,4 @@
-﻿날짜,TAT(日),완료량,가동률(%),출근율(%),대기량,의뢰량
+date,TAT(no of dates),number of completion,util rate(%),attendance(%),number of backlog,number of requests
 1 ,5.72,843,84.97,81 ,2987,627
 2 ,5.55,872,84.42,90 ,2996,860.5
 3 ,4.67,783,91.3,91 ,3173,1118
